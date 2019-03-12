@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 var cards = ["ciri.png","geralt.png","jaskier.png","jaskier.png","iorweth.png","triss.png","geralt.png","yen.png","ciri.png","triss.png","yen.png","iorweth.png"];
 //alert (cards[4]);
 
@@ -106,5 +105,3 @@ function restore2Cards(nr1, nr2){
 
     lock = false;
 }
-=======
->>>>>>> parent of 4595a0e... xd
